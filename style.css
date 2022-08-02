@@ -1040,3 +1040,18 @@ h4 {
         text-align: center;
     }
 }
+
+.imgText {
+    margin: auto;
+    width: 80%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-size: 20px;
+}
+
+.auteur {
+    margin: auto;
+    width: 80%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-size: 17px;
+    font-style: italic;
+}
